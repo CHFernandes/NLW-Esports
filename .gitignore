@@ -29,6 +29,7 @@ web/*.sw?
 
 mobile/node_modules/
 mobile/.expo/
+mobile/.vscode
 mobile/dist/
 mobile/npm-debug.*
 mobile/*.jks
